@@ -1,1 +1,1 @@
-# gpn-project
+# sample-project
